@@ -4,4 +4,6 @@ title: Storm Mechanics
 sidebar_label: Coming Soon
 ---
 
-### Content will be coming soon!
+Melee base damage: 150
+Mark of Wrath electrical proc base damage: 160
+Combo base damage: 200
